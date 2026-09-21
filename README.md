@@ -7,21 +7,21 @@ I'm a recent mechanical engineering graduate with a passion for mechanical desig
 # Projects
 Here is a catalog of all the projects I've worked on; professionally, academically and personal. 
 
-## **Professional Projects**
+## Professional Projects
 
 ### Gallo Glass
 
 
-Problem: The warehouse receives clean tier sheets to separate glass bottles when palletizing. The often stick and aren't squared, in order for machines to operate properly tier sheets must be square to ensure packaging efficiency. Initial idea was core drill, install bollards and a back plate to allow forklifts to square up tier sheets. 
+**Problem**: The warehouse receives clean tier sheets to separate glass bottles when palletizing. The often stick and aren't squared, in order for machines to operate properly tier sheets must be square to ensure packaging efficiency. Initial idea was core drill, install bollards and a back plate to allow forklifts to square up tier sheets. 
 
-Goal: Design something structurally strong enough to resist forklift impact. Allow for easy removal for future automation project. Reduce price of the initial proposal.
+**Goal**: Design something structurally strong enough to resist forklift impact. Allow for easy removal for future automation project. Reduce price of the initial proposal.
 
-Outcome: Reduce down time for install, no need for shop shutdown. Cut price by a third of original proposal.
+**Outcome**: Reduce down time for install, no need for shop shutdown. Cut price by a third of original proposal.
 
 
 ### AlphaBent
 
-## **Academic Projects**
+## Academic Projects
 
 ### Senior Capstone
 
@@ -29,7 +29,7 @@ Outcome: Reduce down time for install, no need for shop shutdown. Cut price by a
 
 ### CFD
 
-## **Personal Projects**
+## Personal Projects
 
 ### Motorcycles (Cruisers)
 
