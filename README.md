@@ -2,7 +2,7 @@
 Here is little about me, my passion and what I do.
 
 ### About me
-I'm a recent mechanical engineering graduate with a passion for mechanical design and analysis. My dream after gaining the most knowledge I can during my career is to own a little local shop where I can design test and build aerodynamic body kits for muscle cars. I'm currently seeking a full time role, ideally where I can express creative freedom, contribute to innovation and wear more than one "hat". Alternatively I enjoy to learn from all relevant positions in my field and open to exploring opportunities and skills I could use in my professional career.
+I'm a recent mechanical engineering graduate with a passion for mechanical design and analysis. My dream after gaining the most knowledge I can during my career is to own a little local shop where I can design, test and build aerodynamic body kits for muscle cars. I'm currently seeking a full time role, ideally where I can express creative freedom, contribute to innovation and wear more than one "hat". Alternatively I enjoy to learn from all relevant positions in my field and open to exploring opportunities and skills I could use in my professional career.
 
 # Projects
 Here is a catalog of all the projects I've worked on; professionally, academically and personal. 
