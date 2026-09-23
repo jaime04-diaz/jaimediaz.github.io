@@ -26,7 +26,9 @@ Projects I've worked on in my professional career.
 ### AlphaBent
 
 **Problem**: 
-**Goal**: 
+
+**Goal**:
+
 **Outcome**:
 
 </details>
